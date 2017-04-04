@@ -1,0 +1,1718 @@
+2017-02-12 21:56:15 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 21:56:15 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 21:58:12 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 21:58:12 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:32:20 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:32:20 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:32:23 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:32:23 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:32:49 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:32:49 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:32:56 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:32:56 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:33:09 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:33:09 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:33:26 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:33:26 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:34:03 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:34:03 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:35:09 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:35:09 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:37:10 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:37:10 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:37:18 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:37:18 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:37:24 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:37:24 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:44:17 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:44:17 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:44:39 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients/add
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 C:\xampp\htdocs\management\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 C:\xampp\htdocs\management\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\management\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\management\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-12 22:45:10 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:45:10 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 22:51:52 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients/add
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 C:\xampp\htdocs\management\lib\Cake\Controller\Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 C:\xampp\htdocs\management\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\management\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\management\app\webroot\index.php(117): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-12 22:53:16 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 22:53:16 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 23:09:06 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 23:09:06 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-12 23:13:46 Error: Fatal Error (64): Cannot use 'String' as class name as it is reserved in [C:\xampp\htdocs\management\lib\Cake\Utility\String.php, line 24]
+2017-02-12 23:13:46 Error: [FatalErrorException] Cannot use 'String' as class name as it is reserved
+Stack Trace:
+#0 C:\xampp\htdocs\management\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24)
+#1 C:\xampp\htdocs\management\lib\Cake\Core\App.php(931): ErrorHandler::handleError(64, 'Cannot use 'Str...', 'C:\\xampp\\htdocs...', 24, Array)
+#2 C:\xampp\htdocs\management\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#3 [internal function]: App::shutdown()
+#4 {main}
+2017-02-13 00:03:58 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:04:09 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:04:16 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:04:51 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:05:17 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/billings
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(BillingsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(BillingsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:05:21 Error: [MissingControllerException] Controller class BillinasdController could not be found.
+Exception Attributes: array (
+  'class' => 'BillinasdController',
+  'plugin' => NULL,
+)
+Request URL: /management/billinasd
+Stack Trace:
+#0 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-02-13 00:05:40 Error: [MissingControllerException] Controller class ClietnsController could not be found.
+Exception Attributes: array (
+  'class' => 'ClietnsController',
+  'plugin' => NULL,
+)
+Request URL: /management/clietns
+Stack Trace:
+#0 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-02-13 00:05:45 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:06:07 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:06:10 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:06:21 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:07:17 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:07:19 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:07:26 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:07:29 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:11:20 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-13 00:12:09 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 20:59:04 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Client.eliminado' in 'where clause'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Client`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Client`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Client`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Client), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/ClientsController.php(26): Model->find('all', Array)
+#7 [internal function]: ClientsController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-02-19 21:06:39 Error: Fatal Error (1): Call to a member function create() on null in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 51]
+2017-02-19 21:06:39 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/opt/lampp/htdo...', 51)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/opt/lampp/htdo...', 51, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/opt/lampp/htdo...', 51, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:10:32 Error: Fatal Error (4): syntax error, unexpected ')', expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Client.php, line 48]
+2017-02-19 21:10:32 Error: [FatalErrorException] syntax error, unexpected ')', expecting variable (T_VARIABLE)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 48)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 48, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 48, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:10:42 Error: Fatal Error (4): syntax error, unexpected ')', expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Client.php, line 48]
+2017-02-19 21:10:42 Error: [FatalErrorException] syntax error, unexpected ')', expecting variable (T_VARIABLE)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 48)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 48, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 48, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:11:21 Error: Fatal Error (4): syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Client.php, line 44]
+2017-02-19 21:11:21 Error: [FatalErrorException] syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 44)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 44, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 44, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:12:03 Error: Fatal Error (4): syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Client.php, line 43]
+2017-02-19 21:12:03 Error: [FatalErrorException] syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 43, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 43, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:12:14 Error: Fatal Error (4): syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Client.php, line 43]
+2017-02-19 21:12:14 Error: [FatalErrorException] syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 43, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 43, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:12:23 Error: Fatal Error (4): syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Client.php, line 43]
+2017-02-19 21:12:23 Error: [FatalErrorException] syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 43, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 43, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:13:16 Error: Fatal Error (4): syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Client.php, line 43]
+2017-02-19 21:13:16 Error: [FatalErrorException] syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 43)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 43, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 43, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:14:51 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Model/Client.php, line 40]
+2017-02-19 21:14:51 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:14:59 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Model/Client.php, line 40]
+2017-02-19 21:14:59 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:15:01 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Model/Client.php, line 40]
+2017-02-19 21:15:01 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:29:41 Error: Fatal Error (4): syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Client.php, line 51]
+2017-02-19 21:29:41 Error: [FatalErrorException] syntax error, unexpected ''lastname'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 51)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 51, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 51, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:31:39 Error: Fatal Error (4): syntax error, unexpected ''phone'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Client.php, line 63]
+2017-02-19 21:31:39 Error: [FatalErrorException] syntax error, unexpected ''phone'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE)
+Request URL: /management/clients/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 63)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 63, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 63, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:33:03 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Client.eliminado' in 'where clause'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Client`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Client`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Client`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Client), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/ClientsController.php(26): Model->find('all', Array)
+#7 [internal function]: ClientsController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-02-19 21:44:53 Error: Fatal Error (4): syntax error, unexpected 'pr' (T_STRING) in [/opt/lampp/htdocs/management/app/View/Clients/index.ctp, line 10]
+2017-02-19 21:44:53 Error: [FatalErrorException] syntax error, unexpected 'pr' (T_STRING)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 10, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 10, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:45:15 Error: Fatal Error (4): syntax error, unexpected 'pr' (T_STRING) in [/opt/lampp/htdocs/management/app/View/Clients/index.ctp, line 10]
+2017-02-19 21:45:15 Error: [FatalErrorException] syntax error, unexpected 'pr' (T_STRING)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 10, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 10, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 21:49:10 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ClientsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 21:49:22 Error: Fatal Error (4): syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 19]
+2017-02-19 21:49:22 Error: [FatalErrorException] syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 19, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 19, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:04:08 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/34915890
+Stack Trace:
+#0 [internal function]: ClientsController->delete('34915890')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:10:08 Error: Fatal Error (4): syntax error, unexpected '{' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 103]
+2017-02-19 22:10:08 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /management/clients/delete/34915890
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:10:22 Error: Fatal Error (4): syntax error, unexpected '{' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 103]
+2017-02-19 22:10:22 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /management/clients/delete/34915890
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:10:24 Error: Fatal Error (4): syntax error, unexpected '{' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 103]
+2017-02-19 22:10:24 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /management/clients/delete/34915890
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:10:32 Error: Fatal Error (4): syntax error, unexpected '{' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 103]
+2017-02-19 22:10:32 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /management/clients/delete/34915890
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:10:38 Error: Fatal Error (4): syntax error, unexpected '{' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 103]
+2017-02-19 22:10:38 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /management/clients/view/34915890
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:10:40 Error: Fatal Error (4): syntax error, unexpected '{' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 103]
+2017-02-19 22:10:40 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /management/clients/view/34915890
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:10:52 Error: Fatal Error (4): syntax error, unexpected '{' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 103]
+2017-02-19 22:10:52 Error: [FatalErrorException] syntax error, unexpected '{'
+Request URL: /management/clients/view/34915890
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 103, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:11:11 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/34915890
+Stack Trace:
+#0 [internal function]: ClientsController->delete('34915890')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:11:35 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/34915890
+Stack Trace:
+#0 [internal function]: ClientsController->delete('34915890')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:14:33 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/34915890
+Stack Trace:
+#0 [internal function]: ClientsController->delete('34915890')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:15:21 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/34915890
+Stack Trace:
+#0 [internal function]: ClientsController->delete('34915890')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:15:32 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:15:44 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:15:56 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:16:14 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:16:21 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:16:58 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:17:04 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:19:58 Error: [MissingViewException] View file "Clients/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Clients/delete.ctp',
+)
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:23:49 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 26]
+2017-02-19 22:23:49 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 26)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 26, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 26, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:29:05 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 26]
+2017-02-19 22:29:05 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 26)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 26, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 26, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:29:47 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 26]
+2017-02-19 22:29:47 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 26)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 26, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 26, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:29:49 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 26]
+2017-02-19 22:29:49 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 26)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 26, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 26, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:30:06 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 26]
+2017-02-19 22:30:06 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 26)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 26, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 26, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:30:16 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 27]
+2017-02-19 22:30:16 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:30:33 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 27]
+2017-02-19 22:30:33 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:30:35 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 27]
+2017-02-19 22:30:35 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:30:59 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 27]
+2017-02-19 22:30:59 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:31:45 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 27]
+2017-02-19 22:31:45 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:32:09 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 27]
+2017-02-19 22:32:09 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:32:52 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 27]
+2017-02-19 22:32:52 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:33:06 Error: Fatal Error (4): syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 27]
+2017-02-19 22:33:06 Error: [FatalErrorException] syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 22:33:47 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'conditions' in 'where clause'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Client`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Client`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Client`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Client), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /opt/lampp/htdocs/management/app/Controller/ClientsController.php(27): PaginatorComponent->paginate('Client', Array)
+#8 [internal function]: ClientsController->index()
+#9 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#12 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2017-02-19 22:34:28 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'conditions' in 'where clause'
+Request URL: /management/clients
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Client`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Client`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Client`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Client), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/lib/Cake/Controller/Component/PaginatorComponent.php(196): Model->find('all', Array)
+#7 /opt/lampp/htdocs/management/app/Controller/ClientsController.php(27): PaginatorComponent->paginate('Client', Array)
+#8 [internal function]: ClientsController->index()
+#9 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#12 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2017-02-19 22:35:23 Error: [MissingViewException] View file "Clients/delete.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Clients/delete.ctp',
+)
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(959): View->render(NULL, NULL)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:35:42 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:35:51 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:37:44 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:38:15 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:39:22 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:39:31 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:39:41 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:40:20 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:40:34 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:44:58 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:45:13 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:45:38 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:45:58 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:46:09 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/30920287
+Stack Trace:
+#0 [internal function]: ClientsController->delete('30920287')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 22:55:57 Error: [NotFoundException] client no es válido/a.
+Request URL: /management/clients/delete/34915890
+Stack Trace:
+#0 [internal function]: ClientsController->delete('34915890')
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-02-19 23:00:31 Error: Fatal Error (4): syntax error, unexpected end of file, expecting function (T_FUNCTION) in [/opt/lampp/htdocs/management/app/Controller/ClientsController.php, line 127]
+2017-02-19 23:00:31 Error: [FatalErrorException] syntax error, unexpected end of file, expecting function (T_FUNCTION)
+Request URL: /management/clients/
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 127)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 127, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 127, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-02-19 23:00:46 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Client.eliminado' in 'where clause'
+Request URL: /management/clients/
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Client`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Client`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Client`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Client), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/ClientsController.php(28): Model->find('all', Array, Array)
+#7 [internal function]: ClientsController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ClientsController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ClientsController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-03-12 20:16:32 Error: [MissingControllerException] Controller class AccountsaleController could not be found.
+Exception Attributes: array (
+  'class' => 'AccountsaleController',
+  'plugin' => NULL,
+)
+Request URL: /management/accountsale
+Stack Trace:
+#0 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-12 20:17:08 Error: [MissingControllerException] Controller class AcountsaleController could not be found.
+Exception Attributes: array (
+  'class' => 'AcountsaleController',
+  'plugin' => NULL,
+)
+Request URL: /management/acountsale
+Stack Trace:
+#0 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-12 20:17:28 Error: [MissingControllerException] Controller class AcountsalesController could not be found.
+Exception Attributes: array (
+  'class' => 'AcountsalesController',
+  'plugin' => NULL,
+)
+Request URL: /management/acountsales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-03-12 20:17:35 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'AcountSale.eliminado' in 'where clause'
+Request URL: /management/acountSales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `AcountS...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `AcountS...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `AcountS...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(AcountSale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/AcountSalesController.php(26): Model->find('all', Array)
+#7 [internal function]: AcountSalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AcountSalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AcountSalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-03-12 20:17:45 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'AcountSale.eliminado' in 'where clause'
+Request URL: /management/AcountSales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `AcountS...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `AcountS...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `AcountS...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(AcountSale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/AcountSalesController.php(26): Model->find('all', Array)
+#7 [internal function]: AcountSalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(AcountSalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(AcountSalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-03-12 20:18:57 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Company.eliminado' in 'where clause'
+Request URL: /management/companies
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Company...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Company...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Company...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Company), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/CompaniesController.php(26): Model->find('all', Array)
+#7 [internal function]: CompaniesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompaniesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompaniesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-03-12 20:35:38 Error: Fatal Error (4): syntax error, unexpected ''name'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Company.php, line 40]
+2017-03-12 20:35:38 Error: [FatalErrorException] syntax error, unexpected ''name'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE)
+Request URL: /management/companies/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-12 20:35:58 Error: Fatal Error (4): syntax error, unexpected ''name'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Company.php, line 40]
+2017-03-12 20:35:58 Error: [FatalErrorException] syntax error, unexpected ''name'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE)
+Request URL: /management/companies/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-12 20:36:09 Error: Fatal Error (4): syntax error, unexpected ''name'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) in [/opt/lampp/htdocs/management/app/Model/Company.php, line 40]
+2017-03-12 20:36:09 Error: [FatalErrorException] syntax error, unexpected ''name'' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE)
+Request URL: /management/companies/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 40, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-12 20:40:28 Error: Fatal Error (4): syntax error, unexpected ',' in [/opt/lampp/htdocs/management/app/Controller/CompaniesController.php, line 27]
+2017-03-12 20:40:28 Error: [FatalErrorException] syntax error, unexpected ','
+Request URL: /management/companies
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 27, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-12 20:40:48 Error: Fatal Error (4): syntax error, unexpected ')' in [/opt/lampp/htdocs/management/app/Controller/CompaniesController.php, line 28]
+2017-03-12 20:40:48 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /management/companies
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 28)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 28, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 28, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-12 20:41:03 Error: Fatal Error (4): syntax error, unexpected ')' in [/opt/lampp/htdocs/management/app/Controller/CompaniesController.php, line 28]
+2017-03-12 20:41:03 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /management/companies
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 28)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 28, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 28, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-12 20:41:33 Error: Fatal Error (4): syntax error, unexpected ')' in [/opt/lampp/htdocs/management/app/Controller/CompaniesController.php, line 28]
+2017-03-12 20:41:33 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /management/companies
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 28)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 28, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 28, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-03-12 20:42:28 Error: [NotFoundException] company no válido/a.
+Request URL: /management/companies/delete
+Stack Trace:
+#0 [internal function]: CompaniesController->delete()
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompaniesController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompaniesController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-12 20:43:02 Error: [NotFoundException] company no válido/a.
+Request URL: /management/companies/delete
+Stack Trace:
+#0 [internal function]: CompaniesController->delete()
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompaniesController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompaniesController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-12 20:45:28 Error: [NotFoundException] company no válido/a.
+Request URL: /management/companies/delete
+Stack Trace:
+#0 [internal function]: CompaniesController->delete()
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompaniesController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompaniesController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-12 20:46:39 Error: [NotFoundException] company no válido/a.
+Request URL: /management/companies/delete
+Stack Trace:
+#0 [internal function]: CompaniesController->delete()
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompaniesController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompaniesController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-12 20:48:30 Error: [NotFoundException] company no válido/a.
+Request URL: /management/companies/delete
+Stack Trace:
+#0 [internal function]: CompaniesController->delete()
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompaniesController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompaniesController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-12 20:49:08 Error: [NotFoundException] company no válido/a.
+Request URL: /management/companies/delete
+Stack Trace:
+#0 [internal function]: CompaniesController->delete()
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompaniesController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompaniesController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-12 20:49:14 Error: [NotFoundException] company no válido/a.
+Request URL: /management/companies/edit
+Stack Trace:
+#0 [internal function]: CompaniesController->edit()
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompaniesController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompaniesController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-12 20:50:24 Error: [NotFoundException] company no válido/a.
+Request URL: /management/companies/edit
+Stack Trace:
+#0 [internal function]: CompaniesController->edit()
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompaniesController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompaniesController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-12 20:50:33 Error: [NotFoundException] company no válido/a.
+Request URL: /management/companies/edit
+Stack Trace:
+#0 [internal function]: CompaniesController->edit()
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CompaniesController), Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CompaniesController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-12 21:00:39 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Category.eliminado' in 'where clause'
+Request URL: /management/categories
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Categor...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Categor...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Categor...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Category), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/CategoriesController.php(26): Model->find('all', Array)
+#7 [internal function]: CategoriesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CategoriesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-03-12 21:05:10 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+Request URL: /management/categories/add
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `ma...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1012): DboSource->execute('INSERT INTO `ma...')
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(1924): DboSource->create(Object(Category), Array, Array)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(1747): Model->_doSave(Array, Array)
+#5 /opt/lampp/htdocs/management/app/Controller/CategoriesController.php(53): Model->save(Array)
+#6 [internal function]: CategoriesController->add()
+#7 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(CategoriesController), Array)
+#8 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(CategoriesController), Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2017-03-12 21:15:14 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Color.eliminado' in 'where clause'
+Request URL: /management/colors
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Color`....', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Color`....', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Color`....', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Color), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/ColorsController.php(26): Model->find('all', Array)
+#7 [internal function]: ColorsController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(ColorsController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ColorsController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-03-12 21:15:38 Error: [MissingComponentException] Component class FlashComponent could not be found.
+Exception Attributes: array (
+  'class' => 'FlashComponent',
+  'plugin' => false,
+)
+Request URL: /management/colors
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('Flash', Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(ColorsController))
+#2 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(188): Controller->constructClasses()
+#3 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(ColorsController), Object(CakeRequest))
+#4 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-03-12 21:17:43 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Garment.eliminado' in 'where clause'
+Request URL: /management/garments
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Garment...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Garment...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Garment...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Garment), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/GarmentsController.php(26): Model->find('all', Array)
+#7 [internal function]: GarmentsController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(GarmentsController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(GarmentsController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:02:29 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Size.eliminado' in 'where clause'
+Request URL: /management/sizes
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Size`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Size`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Size`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Size), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SizesController.php(26): Model->find('all', Array)
+#7 [internal function]: SizesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SizesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SizesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:02:32 Error: [MissingControllerException] Controller class SizeController could not be found.
+Exception Attributes: array (
+  'class' => 'SizeController',
+  'plugin' => NULL,
+)
+Request URL: /management/size
+Stack Trace:
+#0 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-04-04 23:02:38 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Size.eliminado' in 'where clause'
+Request URL: /management/sizes/index
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Size`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Size`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Size`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Size), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SizesController.php(26): Model->find('all', Array)
+#7 [internal function]: SizesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SizesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SizesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:13:37 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/opt/lampp/htdocs/management/app/Controller/SizesController.php, line 28]
+2017-04-04 23:13:37 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /management/sizes
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 28)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 28, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 28, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-04-04 23:13:43 Error: Fatal Error (4): syntax error, unexpected '->' (T_OBJECT_OPERATOR) in [/opt/lampp/htdocs/management/app/Controller/SizesController.php, line 28]
+2017-04-04 23:13:43 Error: [FatalErrorException] syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+Request URL: /management/sizes
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/opt/lampp/htdo...', 28)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/opt/lampp/htdo...', 28, Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/opt/lampp/htdo...', 28, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-04-04 23:30:35 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Garment.eliminado' in 'where clause'
+Request URL: /management/garments
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Garment...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Garment...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Garment...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Garment), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/GarmentsController.php(26): Model->find('all', Array)
+#7 [internal function]: GarmentsController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(GarmentsController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(GarmentsController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:35:05 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Garment.eliminado' in 'where clause'
+Request URL: /management/garments
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Garment...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Garment...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Garment...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Garment), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/GarmentsController.php(26): Model->find('all', Array)
+#7 [internal function]: GarmentsController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(GarmentsController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(GarmentsController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:35:06 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Garment.eliminado' in 'where clause'
+Request URL: /management/garments
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Garment...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Garment...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Garment...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Garment), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/GarmentsController.php(26): Model->find('all', Array)
+#7 [internal function]: GarmentsController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(GarmentsController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(GarmentsController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:35:26 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Garment.eliminado' in 'where clause'
+Request URL: /management/garments
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Garment...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Garment...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Garment...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Garment), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/GarmentsController.php(26): Model->find('all', Array)
+#7 [internal function]: GarmentsController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(GarmentsController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(GarmentsController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:40:57 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sale.eliminado' in 'where clause'
+Request URL: /management/sales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Sale`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Sale`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Sale`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Sale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SalesController.php(26): Model->find('all', Array)
+#7 [internal function]: SalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:41:23 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sale.eliminado' in 'where clause'
+Request URL: /management/sales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Sale`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Sale`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Sale`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Sale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SalesController.php(26): Model->find('all', Array)
+#7 [internal function]: SalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:41:37 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sale.eliminado' in 'where clause'
+Request URL: /management/sales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Sale`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Sale`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Sale`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Sale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SalesController.php(26): Model->find('all', Array)
+#7 [internal function]: SalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:43:13 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sale.eliminado' in 'where clause'
+Request URL: /management/sales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Sale`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Sale`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Sale`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Sale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SalesController.php(26): Model->find('all', Array)
+#7 [internal function]: SalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:43:30 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sale.eliminado' in 'where clause'
+Request URL: /management/sales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Sale`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Sale`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Sale`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Sale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SalesController.php(26): Model->find('all', Array)
+#7 [internal function]: SalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:43:33 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sale.eliminado' in 'where clause'
+Request URL: /management/sales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Sale`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Sale`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Sale`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Sale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SalesController.php(26): Model->find('all', Array)
+#7 [internal function]: SalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:43:47 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sale.eliminado' in 'where clause'
+Request URL: /management/sales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Sale`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Sale`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Sale`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Sale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SalesController.php(26): Model->find('all', Array)
+#7 [internal function]: SalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:43:52 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sale.eliminado' in 'where clause'
+Request URL: /management/sales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Sale`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Sale`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Sale`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Sale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SalesController.php(26): Model->find('all', Array)
+#7 [internal function]: SalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:44:18 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sale.eliminado' in 'where clause'
+Request URL: /management/sales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Sale`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Sale`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Sale`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Sale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SalesController.php(26): Model->find('all', Array)
+#7 [internal function]: SalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:44:20 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sale.eliminado' in 'where clause'
+Request URL: /management/sales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Sale`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Sale`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Sale`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Sale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SalesController.php(26): Model->find('all', Array)
+#7 [internal function]: SalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2017-04-04 23:44:27 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Sale.eliminado' in 'where clause'
+Request URL: /management/sales
+Stack Trace:
+#0 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Sale`.`...', Array)
+#2 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Sale`.`...', Array, Array)
+#3 /opt/lampp/htdocs/management/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Sale`.`...', false)
+#4 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(3018): DboSource->read(Object(Sale), Array)
+#5 /opt/lampp/htdocs/management/lib/Cake/Model/Model.php(2990): Model->_readDataSource('all', Array)
+#6 /opt/lampp/htdocs/management/app/Controller/SalesController.php(26): Model->find('all', Array)
+#7 [internal function]: SalesController->index()
+#8 /opt/lampp/htdocs/management/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(SalesController), Array)
+#9 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /opt/lampp/htdocs/management/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(SalesController), Object(CakeRequest))
+#11 /opt/lampp/htdocs/management/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
